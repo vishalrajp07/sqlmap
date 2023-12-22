@@ -12,7 +12,7 @@ Key Features:
 
 Usage:
 
-    cd to SQLI.PY directory.
+    cd to Sqlmap directory.
     run the tool through python3 SQL.Py 
     select your choice yes or No 
     #Yes to crawl all data in a one time and No for select the data to your choice
@@ -21,7 +21,7 @@ Usage:
 
 Installation:
 
-    cd to SQLI.PY directory.
+    cd to Sqlmap directory.
     install requirements: python3 -m pip install --upgrade -r requirements.txt
     run: python3 setup.py install or python3 -m pip install -e .
     
